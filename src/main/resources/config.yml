@@ -1,0 +1,25 @@
+Inventory:
+  size: 3
+
+Menu:
+  fight:
+    name: '&bFight'
+    material: 'DIAMOND_HELMET'
+    position: 10
+    lore:
+      - '&fClique para iniciar este evento.'
+    command-execute: 'fight iniciar'
+  sumo:
+    name: '&aSumo'
+    material: 'FIREBALL'
+    position: 12
+    lore:
+      - '&fClique para iniciar este evento.'
+    command-execute: 'sumo iniciar'
+  paintball:
+    name: '&6PaintBall'
+    material: 'SNOW_BALL'
+    position: 14
+    lore:
+      - '&fClique para iniciar este evento.'
+    command-execute: 'paintball iniciar'

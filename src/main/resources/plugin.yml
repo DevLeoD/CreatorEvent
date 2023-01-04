@@ -1,0 +1,7 @@
+name: CreatorEvent
+version: 1.0
+main: com.swert.creator.Terminal
+authors: [ zSwert_ ]
+commands:
+  creator:
+    aliases: [criador]
